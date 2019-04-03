@@ -1,0 +1,77 @@
+0['Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun']
+
+1['Srun', 'Srun', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'Srun', 'Ssub', 'Srun', 'Ssub', 'Ssub', 'Srun', 'Ssub', 'Srun', 'Ssub', 'Mec', 'Ssub', 'Mec', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'Srun', 'Ssub', 'Srun', 'Srun', 'Ssub', 'Ssub', 'Ssub', 'Mec', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun', 'Srun']
+
+2['Mec', 'WOinc', 'Mec', 'Ssub', 'WOinc', 'Mec', 'Mec', 'Ssub', 'Mec', 'Srun', 'Ssub', 'Mec', 'Srun', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'WOinc', 'Mec', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'Mec', 'Mec', 'Ssub', 'Mec', 'Ssub', 'Srun', 'Srun', 'Mec', 'WOinc', 'WOinc', 'Ssub', 'Ssub', 'WOinc', 'Srun', 'Srun']
+
+3['Srun', 'Ssub', 'Wform', 'Srun', 'Ssub', 'Mec', 'Mec', 'WOinc', 'Ssub', 'SVA', 'Mec', 'Wform', 'SVA', 'Ssub', 'Ssub', 'WOinc', 'SVA', 'Mec', 'SVA', 'Mec', 'Ssub', 'Ssub', 'WOinc', 'Mec', 'Srun', 'Srun', 'Mec', 'Srun', 'Srun', 'Ssub', 'Srun', 'Ssub', 'Ssub', 'Srun', 'WOinc', 'Srun', 'Srun', 'Ssub', 'Ssub', 'Srun']
+
+4['Mec', 'WOinc', 'Ssub', 'WOinc', 'Wform', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'Ssub', 'Srun', 'Ssub', 'WOinc', 'WOinc', 'WOinc', 'Srun', 'Srun', 'WOinc', 'Srun', 'Ssub', 'Mec', 'Mec', 'WOinc', 'Mec', 'Mec', 'Mec', 'WOinc', 'Ssub', 'Mec', 'Srun', 'Ssub', 'WOinc', 'Ssub', 'Srun', 'WOinc', 'Ssub', 'Srun', 'Ssub', 'Mec', 'Srun']
+
+5['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'Srun']
+
+6['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+7['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+8['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+9['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+10['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+11['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+12['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+13['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+14['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+15['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+16['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+17['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+18['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+19['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+20['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+21['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+22['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+23['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+24['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+25['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+26['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+27['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+28['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+29['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+30['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+31['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+32['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+33['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+34['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+35['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+36['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+37['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
+
+38['right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right', 'right']
